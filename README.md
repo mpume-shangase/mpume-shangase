@@ -2,7 +2,7 @@
 
 **Identity & Access Management Engineer** building enterprise IAM solutions with PowerShell, Microsoft Graph API, and cloud identity platforms.
 
-I'm documenting my entire journey from zero to IAM professional — every project, every certification, every lesson learned — right here on GitHub and on my [YouTube channel](#).
+I'm documenting my entire journey from zero to IAM professional — every project, every certification, every lesson learned — right here on GitHub and on [The Cyber Chronicles](https://www.youtube.com/@TheCyberChronicles-l9d).
 
 ---
 
@@ -43,14 +43,16 @@ SC-300: Identity & Access Administrator ──→ Okta Certified Professional �
 
 ---
 
-### 📺 Latest YouTube Episodes
+### 📺 The Cyber Chronicles — Latest Episodes
 
 <!-- Update these links as you publish episodes -->
 - 🎬 Coming soon — Episode 1: Setting Up Your IAM Lab Environment
+
+👉 [Subscribe to The Cyber Chronicles](https://www.youtube.com/@TheCyberChronicles-l9d)
 
 ---
 
 ### 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-url)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](your-youtube-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mpume-shangase/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TheCyberChronicles-l9d)
