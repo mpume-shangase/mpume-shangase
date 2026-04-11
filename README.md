@@ -12,7 +12,7 @@ I'm working through a hands-on IAM project series that mirrors real-world enterp
 
 | Project | Status | Tools | Description |
 |---------|--------|-------|-------------|
-| [IAM Lifecycle Automation](https://github.com/mpume-shangase/IAM-Lifecycle-Automation) | 🔨 In Progress | PowerShell, Graph API, Entra ID | Automated Joiner-Mover-Leaver pipeline with certificate auth, dry-run mode, and audit logging |
+| [IAM Lifecycle Automation](https://github.com/mpume-shangase/IAM-Lifecycle-Automation) | ✅ Complete | PowerShell, Graph API, Entra ID | Automated Joiner-Mover-Leaver pipeline with certificate auth, dry-run mode, and audit logging |
 | Zero Trust Conditional Access | 📋 Planned | Entra ID, Graph API, PowerShell | Tiered CA policies, authentication strengths, automated sign-in monitoring |
 | Hybrid Identity & Governance | 📋 Planned | Entra Connect, PIM, Graph API | On-prem AD to cloud sync with access reviews and privileged identity management |
 | Enterprise SSO with Okta | 📋 Planned | Okta, SAML, OIDC, Okta API | SSO integration, lifecycle provisioning, and Okta Workflows automation |
