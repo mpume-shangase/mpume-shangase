@@ -8,17 +8,28 @@ I'm documenting my entire journey from zero to IAM professional — every projec
 
 ### 🔐 What I'm Building
 
-I'm working through a hands-on IAM project series that mirrors real-world enterprise identity challenges. Each project is built to production standards with full automation, audit logging, and documentation.
+#### SC-300 Lab Series — Microsoft Identity & Access Administrator
 
-| Project | Status | Tools | Description |
-|---------|--------|-------|-------------|
-| [IAM Lifecycle Automation](https://github.com/mpume-shangase/IAM-Lifecycle-Automation) | ✅ Complete | PowerShell, Graph API, Entra ID | Automated Joiner-Mover-Leaver pipeline with certificate auth, dry-run mode, and audit logging |
-| Zero Trust Conditional Access | 📋 Planned | Entra ID, Graph API, PowerShell | Tiered CA policies, authentication strengths, automated sign-in monitoring |
-| Hybrid Identity & Governance | 📋 Planned | Entra Connect, PIM, Graph API | On-prem AD to cloud sync with access reviews and privileged identity management |
-| Enterprise SSO with Okta | 📋 Planned | Okta, SAML, OIDC, Okta API | SSO integration, lifecycle provisioning, and Okta Workflows automation |
-| Cross-Platform Federation | 📋 Planned | Okta, Entra ID, SCIM | Okta-to-Entra federation with unified identity reporting |
-| IGA with SailPoint | 📋 Planned | SailPoint ISC, REST API | Access certifications, SOD policies, and compliance reporting |
-| Capstone: Enterprise IAM Program | 📋 Planned | All Platforms | Full IAM architecture across Entra ID, Okta, and SailPoint |
+Hands-on labs mapped to every SC-300 exam objective. Each lab is a real-world scenario built on Microsoft 365 E5.
+
+| Lab | Title | Status | SC-300 Domain |
+|-----|-------|--------|---------------|
+| [Lab 1](https://github.com/mpume-shangase/SC-300-Lab-Series/tree/main/labs/lab01-tenant-config) | Tenant Configuration & Role Management | 🔨 In Progress | User Identities |
+| Lab 2 | User & Group Lifecycle with PowerShell | 📋 Planned | User Identities |
+| Lab 3 | External Identities & Cross-Tenant Access | 📋 Planned | User Identities |
+| Lab 4 | Hybrid Identity with Entra Connect | 📋 Planned | User Identities |
+| Lab 5 | Authentication Methods, MFA & SSPR | 📋 Planned | Auth & Access |
+| Lab 6 | Conditional Access & ID Protection | 📋 Planned | Auth & Access |
+| Lab 7 | Workload Identities & Enterprise Apps | 📋 Planned | Workload Identities |
+| Lab 8 | App Registrations & Defender for Cloud Apps | 📋 Planned | Workload Identities |
+| Lab 9 | Identity Governance: PIM, Access Reviews & Entitlements | 📋 Planned | Identity Governance |
+| Lab 10 | Monitoring, Logs & Identity Secure Score | 📋 Planned | Identity Governance |
+
+#### Automation Projects
+
+| Project | Status | Description |
+|---------|--------|-------------|
+| [IAM Lifecycle Automation](https://github.com/mpume-shangase/IAM-Lifecycle-Automation) | ✅ Complete | Automated JML pipeline with PowerShell & Graph API, certificate auth, dry-run mode, and audit logging |
 
 ---
 
@@ -46,7 +57,7 @@ SC-300: Identity & Access Administrator ──→ Okta Certified Professional �
 ### 📺 The Cyber Chronicles — Latest Episodes
 
 <!-- Update these links as you publish episodes -->
-- 🎬 Coming soon — Episode 1: Setting Up Your IAM Lab Environment
+- 🎬 Coming soon — SC-300 Lab 1: Tenant Configuration & Role Management
 
 👉 [Subscribe to The Cyber Chronicles](https://www.youtube.com/@TheCyberChronicles-l9d)
 
